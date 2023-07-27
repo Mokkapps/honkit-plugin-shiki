@@ -1,0 +1,23 @@
+{
+  "name": "honkit-plugin-shiki",
+  "version": "1.0.0",
+  "description": "Honkit plugin for Shiki code highlighting",
+  "engines": {
+    "honkit": ">5.x.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/Mokkapps/honkit-plugin-shiki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mokkapps/honkit-plugin-shiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "shiki": "^0.14.3"
+  }
+}
