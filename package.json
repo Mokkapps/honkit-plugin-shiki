@@ -1,9 +1,9 @@
 {
   "name": "honkit-plugin-shiki",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Honkit plugin for Shiki code highlighting",
   "engines": {
-    "honkit": ">5.x.x"
+    "honkit": ">3.x.x"
   },
   "main": "index.js",
   "scripts": {
